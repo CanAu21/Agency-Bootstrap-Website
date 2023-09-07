@@ -11,4 +11,4 @@ HTML CSS Bootstrap JavaScript
 <br>
  
 
-<img src="image/gif.gif">
+<img src="images/gif.gif">
